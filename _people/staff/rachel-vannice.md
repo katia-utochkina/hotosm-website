@@ -11,7 +11,7 @@ Working Group:
 Country: United States
 Social Media (Full URL):
   OSM: vannicer
-  Twitter: "@rachelkvannice"
+  Twitter: https://twitter.com/rachelkvannice
 redirect_from:
 - "/users/rachel_vannice"
 ---
